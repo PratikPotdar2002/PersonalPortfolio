@@ -1,0 +1,108 @@
+
+body{
+  margin: 0;
+  font-family: 'Merriweather', serif;
+  text-align: center;
+}
+h1{
+  margin:0 auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  height: 200px;
+  font-size: 100px;
+  padding-top: 3.125rem;
+  color: #66BFBF;
+  line-height: 4px;
+}
+h2{
+  font-family: 'Merriweather', serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+h3{
+  color: #11999E;
+}
+a{
+  color: #11999E;
+  font-weight: bold;
+  text-decoration: none;
+}
+a:hover{
+  color: white;
+}
+.top_container{
+  background-color:#CBF1F5 ;
+  text-align: center;
+  padding-top: 130px;
+}
+
+.top_cloud{
+position: relative;
+left: 400px;
+top:4px;
+}
+.bottom_cloud{
+  position: relative;
+  bottom:250px;
+}
+.chess{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+  margin-top: 40px;
+}
+.computer{
+  width: 25%;
+  border-radius: 20px;
+  float:left;
+  margin-right: 30px;
+}
+.img{
+  height: 300px;
+  border-radius: 100px;
+}
+.name{
+  height: 100px;
+}
+hr{
+  border-top: dotted 10px;
+  width: 100px;
+  color: grey;
+}
+.skill-row1{
+  width:50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.bottom-container{
+  background-color: #66BFBF;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  margin-top: 120px;
+}
+.copywrite{
+  color: #EAF6F6;
+}
+.footer-link{
+  margin-left: 35px;
+  margin-right: 35px;
+}
+.contact-me{
+  margin-bottom: 60px;
+}
+.btn{
+  color: white;
+  background-color: #66BFBF;
+  padding: 7px 7px 7px 7px;
+  border-radius: 10px;
+  font-weight: normal;
+  text-decoration: none;
+  margin-top: 120px;
+}
+.contact-me1{
+  margin-bottom: 60px;
+}
+/* .clear{
+  clear:right;    this brings the content to the bottom of the image and free it from floated image
+} */
